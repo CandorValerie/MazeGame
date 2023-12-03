@@ -11,7 +11,7 @@ How to Play
 
 Installation
 Clone the repository to your local machine using the following command:
-git clone (https://github.com/devression/Maze-Game.git)
+git clone (https://github.com/CandorValerie/MazeGame.git)
 
 Usage
 1. Open the cloned project directory.
